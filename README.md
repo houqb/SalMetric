@@ -25,10 +25,10 @@ For app user
 ```bash
 ./build/salmetric dataset_list [num_thread]
 ```
-dataset_list should have the following format:
-    1_sal.png 1.png
-    2_sal.png 2.png
-    3_sal.png 3.png
+dataset_list should have the following format:   
+    1_sal.png 1.png   
+    2_sal.png 2.png   
+    3_sal.png 3.png   
          ...
 
 
@@ -37,6 +37,5 @@ For python user
 import salmetric
 salmetric.do_evalution(num_thread, sal_lst, gt_lst)
 ```
-sal_lst: a list that stores all the saliency maps
-
+sal_lst: a list that stores all the saliency maps   
 gt_lst : a list that stores all the annotation maps
