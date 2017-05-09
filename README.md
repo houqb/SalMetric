@@ -3,7 +3,7 @@
 ### This is the evaluation code for [DSS](https://github.com/Andrew-Qibin/DSS)
 
 ### Requirements   
-OpenCV (version 3 is the best)
+OpenCV (version 3 is the best)   
 Cyphon
 
 ### Install
